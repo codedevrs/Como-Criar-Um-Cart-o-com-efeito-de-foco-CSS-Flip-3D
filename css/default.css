@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --altura-carta: 300px;
+    --largura-carta: calc(var(--card-height) / 1.5);
+}
